@@ -1,8 +1,8 @@
 <?php
 //establishes a connection with mysql database using php
-$server = 'databaseimage';
+$server = 'localhost';
 $username = 'root';
-$password = 'srijan1';
+$password = '';
 $schema = "my_news"; //name of database
 
 
